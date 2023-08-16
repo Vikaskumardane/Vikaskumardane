@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vikaskumardane
-- 👀 I’m interested in Forntend web development
-- 🌱 I’m currently learning react js
+- 👀 I’m interested in  web development
+- 🌱 I’m currently 4th year CSE student from Pune.
 - 📫 How to reach me by my instagram with userid(i_vikasdane) 
 
 <!---
