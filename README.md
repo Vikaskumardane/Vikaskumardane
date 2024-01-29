@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @Vikaskumardane
-- 👀 I’m 2023 CSE graduate from Pune.
-- 📫 How to reach me by my instagram with userid(i_vikasdane)
-- I am interested in the field of software development.
-- Also open to work as a freelancer or contract based.
+- 👀 I’m CSE graduate from Pune.
+- I’m interested in becoming a Software developer
+- 🌱 I’m currently learning Fullstack development.
+- 💞️ I’m looking to collaborate on any fun projects in Python,C++ or HTML/CSS/JavaScript.
+- 📫 You can reach out to me by mailing me at vikasdane06@gmail.com
+- 🐦 My twitter is vikasdane06
+- 🧑‍🤝‍🧑You can also reach to me on instagram at @i_vikasdane
+
+
 
 <!---
 Vikaskumardane/Vikaskumardane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
