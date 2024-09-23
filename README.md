@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="left">About Me:-<br><br>- 👀 I’m CSE graduate from Pune.<br>- I’m interested in becoming a Software developer<br>- 🌱 I’m currently learning Fullstack development.<br>- 💞️ I’m looking to collaborate on any fun projects in Web development Field .<br>- 📫 You can reach out to me by mailing me at vikasdane06@gmail.com<br>- 🐦 My twitter is vikasdane06<br>- 🧑‍🤝‍🧑You can also reach to me on instagram at @i_vikasdane</h3>
+<h3 align="left">About Me:-<br><br>- 👀 I’m CSE graduate from Pune.<br>- I’m a Software developer<br>- 🌱 I’m currently learning Java Fullstack development.<br>- 💞️ I’m looking to collaborate on any fun projects in Web development Field .<br>- 📫 You can reach out to me by mailing me at vikasdane06@gmail.com<br>- 🐦 My twitter is vikasdane06<br>- 🧑‍🤝‍🧑You can also reach to me on instagram at @i_vikasdane</h3>
 
 ###
 
